@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As a **[role]**, I want to  **[capaciy]**, so that **[benefit]**.
+As a **[role]**, I want to  **[capacity]**, so that **[benefit]**.
