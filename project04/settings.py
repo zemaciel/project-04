@@ -30,7 +30,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = 'olhaquecoisamais_linda'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['8000-zemaciel-project04-s5i6xq9fnkv.ws-eu99.gitpod.io', 'project04.herokuapp.com']
 
