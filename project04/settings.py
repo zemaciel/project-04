@@ -32,7 +32,7 @@ SECRET_KEY = 'olhaquecoisamais_linda'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-zemaciel-project04-s5i6xq9fnkv.ws-eu99.gitpod.io', 'https://project04.herokuapp.com']
+ALLOWED_HOSTS = ['8000-zemaciel-project04-s5i6xq9fnkv.ws-eu99.gitpod.io', 'project04.herokuapp.com']
 
 
 # Application definition
